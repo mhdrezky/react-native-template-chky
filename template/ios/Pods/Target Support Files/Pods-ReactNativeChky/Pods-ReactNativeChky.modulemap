@@ -1,0 +1,6 @@
+module Pods_ReactNativeChky {
+  umbrella header "Pods-ReactNativeChky-umbrella.h"
+
+  export *
+  module * { export * }
+}
